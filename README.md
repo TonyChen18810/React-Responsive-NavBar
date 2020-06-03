@@ -8,9 +8,6 @@ Navbar component that moves the navbar items to a dropdown, if they do not fit i
 npm install @opuscapita/react-responsive-navbar
 ```
 
-### Demo
-View the [DEMO](https://opuscapita.github.io/react-responsive-navbar)
-
 ### Builds
 #### UMD
 The default build with compiled styles in the .js file. Also minified version available in the lib/umd directory.
